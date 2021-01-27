@@ -1,5 +1,5 @@
 {
-  "name": "@wuxian/utils",
+  "name": "wuxian-utils",
   "version": "0.0.3",
   "description": "",
   "main": "index.js",
@@ -9,5 +9,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "6f14bcd0f037abff377a4d73ef0a62a66ce57ec0"
+  "gitHead": "a915bc5ce61763433d9cad995a4b19c80c5563fe"
 }
