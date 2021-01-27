@@ -1,5 +1,5 @@
 {
-  "name": "wuxian-test",
+  "name": "wxlerna-test",
   "version": "0.0.4",
   "description": "",
   "main": "index.js",
@@ -9,5 +9,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "a915bc5ce61763433d9cad995a4b19c80c5563fe"
+  "gitHead": "f572d0e9c9b75fc810877726ec7c98427c21d527"
 }
