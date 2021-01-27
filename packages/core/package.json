@@ -1,6 +1,6 @@
 {
   "name": "wxlerna-core",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "wxlerna-utils": "^0.0.4"
+    "wxlerna-utils": "^0.0.5"
   },
   "gitHead": "f572d0e9c9b75fc810877726ec7c98427c21d527"
 }
