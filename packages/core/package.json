@@ -1,6 +1,6 @@
 {
   "name": "core",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "utils": "^0.0.1"
+    "utils": "^0.0.2"
   },
   "gitHead": "e9e9961a662786844ee86c3dd5b7182dddfc33ce"
 }
