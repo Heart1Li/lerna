@@ -12,7 +12,7 @@
   "devDependencies": {
     "wxlerna-utils": "^0.0.6"
   },
-  "gitHead": "f572d0e9c9b75fc810877726ec7c98427c21d527",
+  "gitHead": "51f71010ac185ab3bf2eb5eb258a71b6bbdb949e",
   "dependencies": {
     "react": "^17.0.1"
   }
