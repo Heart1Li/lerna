@@ -1,6 +1,6 @@
 {
   "name": "wuxian-core",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "wuxian-utils": "^0.0.3"
+    "wuxian-utils": "^0.0.4"
   },
   "gitHead": "a915bc5ce61763433d9cad995a4b19c80c5563fe"
 }
